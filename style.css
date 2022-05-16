@@ -39,7 +39,7 @@ body {
 
 .background {
     background-color: #f11075;
-    background-image: url(./imagens/background-buser.png);
+    background-image: url(imagens/background-buser.png);
     height: 126rem;
     background-repeat: no-repeat;
     background-size: cover;
